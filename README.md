@@ -1,2 +1,0 @@
-# classification_models_for_WINE
-訓練各項模型並找出最適合此資料的模型
